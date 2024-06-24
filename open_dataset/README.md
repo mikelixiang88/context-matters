@@ -35,7 +35,3 @@ A notebook containing scripts that analyze the results computed by the scripts i
 A notebook containing script to visualize the relationship between different context and performance across different graders, difficulty, and originality.
 
 
-## Questions
-
-Check our working paper, "Context Matters: Data-Efficient Augmentation of Large Language Models for Scientific Applications" at https://arxiv.org/abs/2312.07069
-
