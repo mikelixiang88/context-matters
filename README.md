@@ -21,7 +21,7 @@ In the open-form dataset, the embedding distnace between context is highly align
 In both of the closed-form datasets, the context with same task demonstrations have smaller distnace than context with different task demonstrations.
 
 
-## List Directories
+## List of Directories
 
 Each directory contains a seperate README file to explain the different files for processing
 
