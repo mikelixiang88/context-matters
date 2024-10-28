@@ -34,4 +34,8 @@ A notebook containing scripts that analyze the results computed by the scripts i
 
 A notebook containing script to visualize the relationship between different context and performance across different graders, difficulty, and originality.
 
+### Faithfulness: 
+
+A directory that holds scripts that repeats the experiment with a different prompt template. The script then measures the faithfulness score of the newly generated response against the original ones as a similiarity measure.
+
 
